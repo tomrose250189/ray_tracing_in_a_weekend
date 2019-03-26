@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1552263028 source:c:\users\tom\documents\cpp_projects\ray_tracing_in_a_weekend\main.cpp
+	<fstream>
+	<functional>
+	<random>
+	"sphere.h"
+	"hitable_list.h"
+	"camera.h"
+	"material.h"
+
+1551984642 source:c:\users\tom\documents\cpp_projects\ray_tracing_in_a_weekend\c2.cpp
+	"c2.h"
+
+1551984642 c:\users\tom\documents\cpp_projects\ray_tracing_in_a_weekend\c2.h
+	<math.h>
+	<stdlib.h>
+	<iostream>
+
+1551997877 source:c:\users\tom\documents\cpp_projects\ray_tracing_in_a_weekend\vec3.cpp
+	"vec3.h"
+
+1551998018 c:\users\tom\documents\cpp_projects\ray_tracing_in_a_weekend\vec3.h
+	<math.h>
+	<stdlib.h>
+	<iostream>
+
+1552249172 c:\users\tom\documents\cpp_projects\ray_tracing_in_a_weekend\sphere.h
+	"hitable.h"
+
+1552234561 c:\users\tom\documents\cpp_projects\ray_tracing_in_a_weekend\hitable.h
+	"ray.h"
+
+1552306586 c:\users\tom\documents\cpp_projects\ray_tracing_in_a_weekend\ray.h
+	"vec3.h"
+
+1552073303 c:\users\tom\documents\cpp_projects\ray_tracing_in_a_weekend\hitable_list.h
+	"hitable.h"
+
+1552307534 c:\users\tom\documents\cpp_projects\ray_tracing_in_a_weekend\camera.h
+	"ray.h"
+
+1552259828 c:\users\tom\documents\cpp_projects\ray_tracing_in_a_weekend\material.h
+	"hitable.h"
+
